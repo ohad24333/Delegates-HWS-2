@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Delegates_HWS_7._10/1.0.0": {
+        "dependencies": {
+          "MechlalaDll": "1.0.0"
+        },
+        "runtime": {
+          "Delegates_HWS_7._10.dll": {}
+        }
+      },
+      "MechlalaDll/1.0.0": {
+        "runtime": {
+          "MechlalaDll.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Delegates_HWS_7._10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MechlalaDll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

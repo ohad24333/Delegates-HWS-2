@@ -1,0 +1,18 @@
+C:\Users\ohad2\source\repos\Delegates HWS 2\bin\Debug\net5.0-windows\Delegates HWS 2.exe
+C:\Users\ohad2\source\repos\Delegates HWS 2\bin\Debug\net5.0-windows\Delegates HWS 2.deps.json
+C:\Users\ohad2\source\repos\Delegates HWS 2\bin\Debug\net5.0-windows\Delegates HWS 2.runtimeconfig.json
+C:\Users\ohad2\source\repos\Delegates HWS 2\bin\Debug\net5.0-windows\Delegates HWS 2.runtimeconfig.dev.json
+C:\Users\ohad2\source\repos\Delegates HWS 2\bin\Debug\net5.0-windows\Delegates HWS 2.dll
+C:\Users\ohad2\source\repos\Delegates HWS 2\bin\Debug\net5.0-windows\ref\Delegates HWS 2.dll
+C:\Users\ohad2\source\repos\Delegates HWS 2\bin\Debug\net5.0-windows\Delegates HWS 2.pdb
+C:\Users\ohad2\source\repos\Delegates HWS 2\obj\Debug\net5.0-windows\Delegates HWS 2.csproj.AssemblyReference.cache
+C:\Users\ohad2\source\repos\Delegates HWS 2\obj\Debug\net5.0-windows\Delegates_HWS_7._10.Form1.resources
+C:\Users\ohad2\source\repos\Delegates HWS 2\obj\Debug\net5.0-windows\Delegates HWS 2.csproj.GenerateResource.cache
+C:\Users\ohad2\source\repos\Delegates HWS 2\obj\Debug\net5.0-windows\Delegates HWS 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ohad2\source\repos\Delegates HWS 2\obj\Debug\net5.0-windows\Delegates HWS 2.AssemblyInfoInputs.cache
+C:\Users\ohad2\source\repos\Delegates HWS 2\obj\Debug\net5.0-windows\Delegates HWS 2.AssemblyInfo.cs
+C:\Users\ohad2\source\repos\Delegates HWS 2\obj\Debug\net5.0-windows\Delegates HWS 2.csproj.CoreCompileInputs.cache
+C:\Users\ohad2\source\repos\Delegates HWS 2\obj\Debug\net5.0-windows\Delegates HWS 2.dll
+C:\Users\ohad2\source\repos\Delegates HWS 2\obj\Debug\net5.0-windows\ref\Delegates HWS 2.dll
+C:\Users\ohad2\source\repos\Delegates HWS 2\obj\Debug\net5.0-windows\Delegates HWS 2.pdb
+C:\Users\ohad2\source\repos\Delegates HWS 2\obj\Debug\net5.0-windows\Delegates HWS 2.genruntimeconfig.cache
